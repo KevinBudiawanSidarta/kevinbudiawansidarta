@@ -205,7 +205,7 @@
     color: indigo;
 
    }
-    img {
+    #img {
       width: 200px; /* Adjust the width to make the image smaller */
       height: 200px; /* Maintain aspect ratio */
   }
